@@ -12,11 +12,11 @@
       </ssh-properties>
     </data-source>
     <data-source name="Rails projeto2: test" uuid="dc20023c-0597-4acf-b44a-5cae3c9a3d04">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" family="SQLITE" exact-version="0.0" />
       <auth-required>false</auth-required>
     </data-source>
     <data-source name="Rails projeto2: production" uuid="f2034842-072d-4290-a228-5fa0de51332a">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" family="SQLITE" exact-version="0.0" />
       <auth-required>false</auth-required>
     </data-source>
   </component>
