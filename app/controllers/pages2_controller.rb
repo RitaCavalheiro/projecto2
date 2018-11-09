@@ -6,9 +6,5 @@ class Pages2Controller < ApplicationController
 
   end
 
-  def teste_cenas
-
-  end
-
 end
 
