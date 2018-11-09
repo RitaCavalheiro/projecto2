@@ -40,12 +40,14 @@
         <counts>
           <entry key="erb" value="2" />
           <entry key="rb" value="2" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="RHTML" value="2" />
           <entry key="Ruby" value="2" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -270,12 +272,12 @@
       <option name="presentableId" value="Default" />
       <updated>1541690804686</updated>
       <workItem from="1541690805948" duration="323000" />
-      <workItem from="1541701364690" duration="3375000" />
+      <workItem from="1541701364690" duration="3632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5111000" />
+    <option name="totallyTimeSpent" value="5368000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="650" y="0" width="630" height="800" extended-state="0" />
@@ -335,6 +337,11 @@
         <state relative-caret-position="75">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3343" />
       </provider>
     </entry>
   </component>
